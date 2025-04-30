@@ -42,7 +42,7 @@ Whether it's a high-converting landing page or a modern UI, I love turning ideas
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/karim-sobhy-90a275363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-sobhy-90a275363)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr)](https://www.fiverr.com/s/Eg9mNg8)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.sobhykarim65@example.com)
