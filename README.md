@@ -1,9 +1,7 @@
 
 <h1 align="center">Hey, I'm Karim Sobhy 👋</h1>
 
-<p align="center">
-  <img src="images/landing-page.png" alt="Landing Page" width="600"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer;Landing+Pages+Expert;Clean+UI+Lover;Always+Learning..." alt="Typing SVG" />
